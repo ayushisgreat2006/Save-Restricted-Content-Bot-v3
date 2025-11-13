@@ -43,7 +43,7 @@
     },
     "FORCE_SUB": {
       "description": "Channel ID (with -100 prefix) for forced subscription",
-      "value": "-3232972101",
+      "value": "-1003232972101",
       "required": true
     },
     "LOG_GROUP": {
@@ -98,6 +98,7 @@
   ],
   "stack": "container"
 }
+
 
 
 
