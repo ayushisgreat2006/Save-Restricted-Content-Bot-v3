@@ -33,7 +33,7 @@
     },
     "DB_NAME": {
       "description": "Database name for MongoDB (default: telegram_downloader)",
-      "value": "telegram_downloader",
+      "value": "telegramdownloader",
       "required": false
     },
     "STRING": {
@@ -43,12 +43,12 @@
     },
     "FORCE_SUB": {
       "description": "Channel ID (with -100 prefix) for forced subscription",
-      "value": "-10012345567",
+      "value": "-3232972101",
       "required": true
     },
     "LOG_GROUP": {
       "description": "Log channel/group ID (with -100 prefix) where the bot will send logs",
-      "value": "-1001234456",
+      "value": "-3232972101",
       "required": true
     },
     "MASTER_KEY": {
@@ -83,12 +83,12 @@
     },
     "ADMIN_CONTACT": {
       "description": "type admin contact link",
-      "value": "https://t.me/kingofpatal",
+      "value": "https://t.me/mahadev_ki_iccha",
       "required": true
     },
     "JOIN_LINK": {
       "description": "type join channel link which comes on /start",
-      "value": "https://t.me/team_spy_pro",
+      "value": "https://t.me/tonystark_jr",
       "required": true
     }
   },
@@ -98,3 +98,4 @@
   ],
   "stack": "container"
 }
+
