@@ -48,7 +48,7 @@
     },
     "LOG_GROUP": {
       "description": "Log channel/group ID (with -100 prefix) where the bot will send logs",
-      "value": "-3432151687",
+      "value": "-1003432151687",
       "required": true
     },
     "MASTER_KEY": {
@@ -98,5 +98,6 @@
   ],
   "stack": "container"
 }
+
 
 
