@@ -28,7 +28,7 @@
     },
     "OWNER_ID": {
       "description": "User ID(s) to be set as bot owner(s), separated by space (e.g., 1234 5678)",
-      "value": "",
+      "value": "8445990476",
       "required": true
     },
     "DB_NAME": {
@@ -48,7 +48,7 @@
     },
     "LOG_GROUP": {
       "description": "Log channel/group ID (with -100 prefix) where the bot will send logs",
-      "value": "-3232972101",
+      "value": "-3432151687",
       "required": true
     },
     "MASTER_KEY": {
@@ -98,4 +98,5 @@
   ],
   "stack": "container"
 }
+
 
